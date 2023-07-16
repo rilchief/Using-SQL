@@ -12,7 +12,8 @@ My organization is working to make their system more secure. It is my job to ens
 
 <h2>Secnaria 1 - </h2>
   You recently discovered a potential security incident that occurred after business hours. To investigate this, you need to query the log_in_attempts table and review after hours login activity. Use filters in SQL to create a query that identifies all failed login attempts that occurred after 18:00. (The time of the login attempt is found in the login_time column. The success column contains a value of 0 when a login attempt failed; you can use either a value of 0 or FALSE in your query to identify failed login attempts.) Describe your query and how it works in the Retrieve after hours failed login attempts section of the Apply filters to SQL queries template. 
-  
+
+  https://imgur.com/a/zHBBMOb
 
 - <b>Windows 10</b> (21H2)
 
@@ -20,7 +21,7 @@ My organization is working to make their system more secure. It is my job to ens
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/zHBBMOb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
